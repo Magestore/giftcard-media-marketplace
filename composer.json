@@ -13,7 +13,7 @@
   "extra": {
     "map": [
       [ "lib/internal", "lib/internal"],
-      [ "pub/media", "pub/media" ]
+      [ "pub/media", "pub/media"]
     ]
   }
 }
